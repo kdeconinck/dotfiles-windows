@@ -1,0 +1,11 @@
+{
+	"editor.fontFamily": "Comic Mono",
+	"editor.formatOnSave": true,
+	"editor.fontSize": 16,
+	"editor.letterSpacing": -1.25,
+	"editor.rulers": [
+		120
+	],
+	"workbench.colorTheme": "Default Light+",
+	"workbench.iconTheme": "vscode-icons"
+}

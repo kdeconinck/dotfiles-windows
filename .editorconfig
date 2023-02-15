@@ -23,9 +23,14 @@
 # ==                OTHER DEALINGS IN THE SOFTWARE.
 # ======================================================================================================================
 
-# Indicate that this is the `ROOT` configuration file.
+# Indicate that this is the "ROOT" configuration file.
 root = true
 
-# Configuration for ALL files.
+# Configuration for "ALL" files.
 [*]
 insert_final_newline = true
+
+# Configuration for `.json` files.
+[*.json]
+indent_style = tab
+indent_size = 4
